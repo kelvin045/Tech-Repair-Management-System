@@ -1,0 +1,2 @@
+# Tech-Repair-Management-System
+computers most of the time malfunctions or breaks down and requires fixing. Challenges appears when taking the gadgets (computers) to be fixed or for maintenance. When taking this product to the repair shop, A lot of people face some challenges: They cannot be able to know when the repair shop is opened or closed, they cannot be able to know the progress of the repair. Technicians not doing their work accordingly / sharing their work inappropriately. Theft in the shop as there are no reports.
