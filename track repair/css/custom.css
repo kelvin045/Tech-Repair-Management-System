@@ -1,0 +1,65 @@
+.navbar-brand {
+
+    font-size: 3.5em;
+    font-weight: bold;
+}
+
+/* Change Navigation Color */
+.collapse .custom-nav .nav-item a {
+    color: rgb(7, 1, 1);
+    font-weight: bold;
+}
+
+.collapse .custom-nav .nav-item a:hover {
+    color: #f0aab1;
+}
+
+/* body */
+body{
+    background-color: darkolivegreen;
+}
+marquee{
+color:rgb(0, 255, 42)
+
+
+
+}
+marquee{
+    font-size:40px;
+
+}
+/* Set Image */
+
+.back-image {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 90.2vh;
+    border-radius: 0px;
+    margin-top: 61px;
+}
+.pclass{
+    font-size: 24px;
+}
+/* Margin for header */
+.main-heading{
+    margin-top: 0px;
+}
+
+
+
+/* Mobile view for Main Heading */
+
+@media (max-width:768px){
+    .main-heading{
+        margin-top: 350px;
+        text-align: center;
+    }
+}
+
+
+
+}
+
+
+
